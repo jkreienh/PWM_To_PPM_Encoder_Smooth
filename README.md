@@ -1,4 +1,4 @@
-# PWM_To_PPM_Encoder
+# PWM_To_PPM_Encoder_Smooth
 
 ## IDE
 Arduino 1.8.16
