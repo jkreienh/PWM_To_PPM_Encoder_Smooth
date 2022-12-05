@@ -9,10 +9,10 @@ Arduino Pro Mini or Atmega328 or 328p chip
 ## Programmer:
 ArduinoISP
 
-![EngineLibrary](Screenshots/EngineLibrary.PNG)
+![FTDI Setup](8pwm_to_ppm328/cypressUSBUART.png)
 
 ## Wiring
-Connect upto 8 RC PWM input signals so that the wires go to:
+Connect up to 8 RC PWM input signals so that the wires go to:
      red = 5v
      black = GND or 0V pin on arduino
      white = PWM signal pins, these connect to D0,D1,D2,D3,D4,D5,D6,D7
